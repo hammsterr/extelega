@@ -3,7 +3,7 @@
 ## exTelega
 *[Licensed under the GNU General Public License v2.0](https://github.com/exteraSquad/exteraGram/blob/default/LICENSE)*
 
-Experimental **third-party** Telegram client based on [official sources](https://github.com/DrKLO/Telegram).
+**Форк** [ExteraGram](https://github.com/exteraSquad/exteraGram).
 
 [![Wiki](https://img.shields.io/badge/exTelega-wiki-FF7EAE.svg)](https://hamystudio.gitbook.io/extelega/)
 
