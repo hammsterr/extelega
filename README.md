@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/jNIxZpJ.png" width="128" height="128" style="display: block; margin: 0 auto"/>
     <h1>exTelega</h1>
     <p>Форк проекта ExteraGram</p>
-    <a href="https://github.com/exteraSquad/exteraGram/blob/default/LICENSE">Licensed under the GNU General Public License v2.0</a>
+    <p><a href="https://github.com/exteraSquad/exteraGram/blob/default/LICENSE">Licensed under the GNU General Public License v2.0</a></p>
     <img alt="Wiki" src="https://img.shields.io/badge/exTelega-wiki-FF7EAE">
 
 </div>
