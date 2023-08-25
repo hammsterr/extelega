@@ -6,7 +6,7 @@
 Experimental **third-party** Telegram client based on [official sources](https://github.com/DrKLO/Telegram).
 
 [![Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/exteraGram)
-[![Chat](https://img.shields.io/badge/Chat-Telegram-blue.svg)](https://t.me/exteraChat)
+[![Chat](https://img.shields.io/badge/exTelega-wiki.svg)](https://hamystudio.gitbook.io/extelega/)
 [![Downloads](https://img.shields.io/badge/Download%20at%20-%20Telegram-blue.svg)](https://t.me/exteraReleases)
 
 ## Importing API hash and keys
