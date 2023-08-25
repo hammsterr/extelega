@@ -7,10 +7,8 @@
 
 [![Wiki](https://img.shields.io/badge/exTelega-wiki-FF7EAE.svg)](https://hamystudio.gitbook.io/extelega/)
 
-## Importing API hash and keys
-- You should get **YOUR OWN API KEY AND HASH** here: https://core.telegram.org/api/obtaining_api_id and create a file called `API_KEYS` in the source root directory.
-- Also you should get **YOUR OWN MAPS API KEY** here: https://console.cloud.google.com/google/maps-apis/credentials and add it to this file.
-- And you need to generate **SIGNING KEY**: https://developer.android.com/studio/publish/app-signing#generate-key
+## Скриншоты
+
 
 The file content should look like this:
 ```
