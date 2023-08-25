@@ -1,6 +1,6 @@
-<img src="https://i.imgur.com/5EmxevP.png" width="150" align="left"/>
+<img src="https://i.imgur.com/jNIxZpJ.png" width="150" align="left"/>
 
-## exteraGram
+## exTelega
 *[Licensed under the GNU General Public License v2.0](https://github.com/exteraSquad/exteraGram/blob/default/LICENSE)*
 
 Experimental **third-party** Telegram client based on [official sources](https://github.com/DrKLO/Telegram).
