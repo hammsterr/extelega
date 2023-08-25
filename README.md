@@ -5,9 +5,7 @@
 
 Experimental **third-party** Telegram client based on [official sources](https://github.com/DrKLO/Telegram).
 
-[![Channel](https://img.shields.io/badge/Channel-Telegram-blue.svg)](https://t.me/exteraGram)
 [![Wiki](https://img.shields.io/badge/exTelega-wiki-FF7EAE.svg)](https://hamystudio.gitbook.io/extelega/)
-[![Downloads](https://img.shields.io/badge/Download%20at%20-%20Telegram-blue.svg)](https://t.me/exteraReleases)
 
 ## Importing API hash and keys
 - You should get **YOUR OWN API KEY AND HASH** here: https://core.telegram.org/api/obtaining_api_id and create a file called `API_KEYS` in the source root directory.
